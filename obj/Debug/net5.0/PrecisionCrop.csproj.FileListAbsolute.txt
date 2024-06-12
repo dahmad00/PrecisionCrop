@@ -1,0 +1,735 @@
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\appsettings.Development.json
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\appsettings.json
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.exe
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.deps.json
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.runtimeconfig.json
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.runtimeconfig.dev.json
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\ref\PrecisionCrop.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.pdb
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.Views.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.Views.pdb
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\DynamicInterop.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\RDotNet.dll
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.csproj.AssemblyReference.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.AssemblyInfoInputs.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.AssemblyInfo.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.csproj.CoreCompileInputs.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.MvcApplicationPartsAssemblyInfo.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorAssemblyInfo.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorAssemblyInfo.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\scopedcss\bundle\PrecisionCrop.styles.css
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\staticwebassets\PrecisionCrop.StaticWebAssets.Manifest.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.TagHelpers.input.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.TagHelpers.output.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorCoreGenerate.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorTargetAssemblyInfo.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorTargetAssemblyInfo.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.Views.pdb
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.csproj.CopyComplete
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.dll
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\ref\PrecisionCrop.dll
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.pdb
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.genruntimeconfig.cache
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Plot.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\mscorlib.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\netstandard.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Console.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Core.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Data.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Linq.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Memory.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Web.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Windows.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.MvcApplicationPartsAssemblyInfo.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\BoxPlot.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Histogram.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Table.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Descriptive.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Regression.cshtml.g.cs
+F:\Probability and Statistics\Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Binomial.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\appsettings.Development.json
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\appsettings.json
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.exe
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.deps.json
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.runtimeconfig.json
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.runtimeconfig.dev.json
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.pdb
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\mscorlib.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\netstandard.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.AppContext.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Buffers.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Configuration.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Console.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Core.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Data.Common.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Data.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Drawing.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Globalization.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Compression.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Linq.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Memory.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Http.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Mail.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Ping.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Requests.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Security.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Numerics.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ObjectModel.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Claims.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Principal.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.Json.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Transactions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.ValueTuple.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Web.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Windows.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\refs\WindowsBase.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.Views.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\PrecisionCrop.Views.pdb
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\DynamicInterop.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\RDotNet.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.csproj.AssemblyReference.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.GeneratedMSBuildEditorConfig.editorconfig
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.AssemblyInfoInputs.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.AssemblyInfo.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.csproj.CoreCompileInputs.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.MvcApplicationPartsAssemblyInfo.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.MvcApplicationPartsAssemblyInfo.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorAssemblyInfo.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorAssemblyInfo.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.TagHelpers.input.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.TagHelpers.output.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorCoreGenerate.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Binomial.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\BoxPlot.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Descriptive.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Histogram.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Plot.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Regression.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Home\Table.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorTargetAssemblyInfo.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.RazorTargetAssemblyInfo.cs
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.Views.pdb
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\scopedcss\bundle\PrecisionCrop.styles.css
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\staticwebassets\PrecisionCrop.StaticWebAssets.Manifest.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\staticwebassets\PrecisionCrop.StaticWebAssets.Pack.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\staticwebassets\msbuild.PrecisionCrop.Microsoft.AspNetCore.StaticWebAssets.props
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\staticwebassets\msbuild.build.PrecisionCrop.props
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PrecisionCrop.props
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PrecisionCrop.props
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\Precisio.6B19CC9B.Up2Date
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.dll
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\refint\PrecisionCrop.dll
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.pdb
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\PrecisionCrop.genruntimeconfig.cache
+U:\Archives\Probability Project\PrecisionCrop\obj\Debug\net5.0\ref\PrecisionCrop.dll

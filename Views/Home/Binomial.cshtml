@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model PrecisionCrop.Models.BinomialData
+}
+
+
+
+<div class="roboto container my-5 mx-auto  w-50 py-5" style="background-color:#e8ffe8; color:#011a01; border-radius:10px;">
+  <h1 class="text-center" style="font-weight:bold">Binomial Distribution</h1>
+  <hr />
+   <form class="form-inline px-3 py-5" style="" asp-controller="home" asp-action="Binomial">
+	   <small>Crop is succesful if yield is greater than 5000. Probability of this sucess is 0.775</small>
+      <div class="row">
+           <div class="form-group col-lg-6 " style="margin-top:30px">
+				<label class="sr-only roboto" for="email">Enter Number of Succesful Crops</label>
+				<input type="number" value="10000" class="form-control" name="X">
+			</div>
+      <div/>
+	  <div class="row">
+			<div class="form-group col-lg-6 " style="margin-right:-20px">
+				<label class="sr-only roboto" for="email">Enter Number of Total Crops</label>
+				<input type="number" value="10000" class="form-control" name="N">
+			</div>
+      </div>
+			<div class="form-group col-lg-6">
+				<button type="submit" style="width:250px" value="" class="btn btn-default mt-4 btn btn-success">Get probability (Exactly X)</button>
+				<button type="submit" style="width:250px" value="" class="btn btn-default mt-4 btn btn-success">Get probability (Less than X)</button>
+				<button type="submit" style="width:250px" value="" class="btn btn-default mt-4 btn btn-success">Get probability (More than X)</button>
+			</div>
+		</div>
+
+</form>
+<div>
+		@if (@Model.result != -1)
+		{
+			<div>Probability = @Model.result</div>
+		}
+	</div>
+
+</div>
+
+

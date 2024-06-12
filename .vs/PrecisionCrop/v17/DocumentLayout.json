@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\Archives\\Probability Project\\PrecisionCrop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\precisioncrop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:precisioncrop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\plot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\plot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\descriptive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\descriptive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\regression.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\regression.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\histogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\histogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\boxplot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\boxplot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\binomial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\binomial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\models\\regressiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:models\\regressiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\models\\descriptivedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:models\\descriptivedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\models\\binomialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:models\\binomialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\home\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\home\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|u:\\archives\\probability project\\precisioncrop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BE7C6F-8A23-46F0-87D7-114A69E47197}|PrecisionCrop.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plot.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Plot.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Plot.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Plot.cshtml",
+              "RelativeToolTip": "Views\\Home\\Plot.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAYwKMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:31:11.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T21:42:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T21:31:11.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrecisionCrop.csproj",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\PrecisionCrop.csproj",
+              "RelativeDocumentMoniker": "PrecisionCrop.csproj",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\PrecisionCrop.csproj",
+              "RelativeToolTip": "PrecisionCrop.csproj",
+              "ViewState": "AQIAAAgAAABAMzMzMzMbwBQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T21:31:11.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Descriptive.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Descriptive.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Descriptive.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Descriptive.cshtml",
+              "RelativeToolTip": "Views\\Home\\Descriptive.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoxPlot.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\BoxPlot.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BoxPlot.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\BoxPlot.cshtml",
+              "RelativeToolTip": "Views\\Home\\BoxPlot.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Binomial.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Binomial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Binomial.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Binomial.cshtml",
+              "RelativeToolTip": "Views\\Home\\Binomial.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Histogram.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Histogram.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Histogram.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Histogram.cshtml",
+              "RelativeToolTip": "Views\\Home\\Histogram.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Regression.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Regression.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Regression.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Regression.cshtml",
+              "RelativeToolTip": "Views\\Home\\Regression.cshtml",
+              "ViewState": "AQIAABIAAABgZmZmZmYkwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:11.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegressionData.cs",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Models\\RegressionData.cs",
+              "RelativeDocumentMoniker": "Models\\RegressionData.cs",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Models\\RegressionData.cs",
+              "RelativeToolTip": "Models\\RegressionData.cs",
+              "ViewState": "AQIAAAoAAABgZmZmZmYzwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:31:11.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:31:11.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BinomialData.cs",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Models\\BinomialData.cs",
+              "RelativeDocumentMoniker": "Models\\BinomialData.cs",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Models\\BinomialData.cs",
+              "RelativeToolTip": "Models\\BinomialData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:31:11.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DescriptiveData.cs",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Models\\DescriptiveData.cs",
+              "RelativeDocumentMoniker": "Models\\DescriptiveData.cs",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Models\\DescriptiveData.cs",
+              "RelativeToolTip": "Models\\DescriptiveData.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA9wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:31:11.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Table.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Table.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Table.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\Home\\Table.cshtml",
+              "RelativeToolTip": "Views\\Home\\Table.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:14.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:14.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "U:\\Archives\\Probability Project\\PrecisionCrop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:31:14.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

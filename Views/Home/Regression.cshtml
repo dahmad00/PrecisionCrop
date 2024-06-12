@@ -1,0 +1,40 @@
+﻿
+@{
+
+	@model PrecisionCrop.Models.RegressionData
+}
+
+
+<div class="roboto container my-5 mx-auto  w-50 py-5" style="background-color:#e8ffe8; color:#011a01; border-radius:10px;">
+  <h1 class="text-center" style="font-weight:bold">Regression</h1>
+  <hr />
+   <form class="form-inline px-3 py-5" style="" asp-controller="home" asp-action="Regression">
+
+      <div class="row">
+           <div class="form-group col-lg-4 " style="margin-right:-20px">
+				<label class="sr-only roboto" for="email">Enter Value of Area</label>
+				<input type="number" value="10000" class="form-control" name="area">
+			</div>
+
+			<div class="form-group col-lg-4 ">
+				<button type="submit" value="" class="btn btn-default mt-4 btn btn-success">Predict Production</button>
+			</div>
+		</div>
+	@if (@Model.Production > 0)
+				{
+					<div> Production = @Model.Production </div>
+				}
+</form>
+  <div class="row" style = "margin-top:-30px">
+	   <h6 style="font-weight:bold">@Model.getEquation()</h6>
+  </div>
+<hr />
+  <h5 class="mx-3"  style="font-weight:300">Regression Plot</h5>
+  <img class="mx-3" src="~/img/R/Regression.png" />
+
+ 
+
+
+  
+  <hr />
+</div>
